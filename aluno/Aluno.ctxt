@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Definicao\ dos\ atributos\ do\ aluno\r\n\ \r\n\ @author\ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\ \r\n
+comment1.params=nome\ idade\ ra\ serie\ disc
+comment1.target=Aluno(java.lang.String,\ int,\ java.lang.String,\ int,\ Disciplina[])
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Aluno\r\n\ @param\ nome\ String,\ nome\ do\ aluno\r\n\ @param\ int\ idade,\ idade\ do\ aluno\r\n\ @param\ String\ RA,\ RA\ do\ aluno\r\n\ @param\ int\ serie,\ serie\ do\ aluno\r\n\ @param\ Disciplina\ disc[],\ disciplinas\ cursadas\ pelo\ aluno\r\n
+comment2.params=ra
+comment2.target=void\ setRa(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ setRa\ -\ atualiza\ valor\ do\ ra\r\n\r\n\ @param\ ra\ Um\ par\u00E2metro\ do\ tipo\ String\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRa()
+comment3.text=\r\n\ M\u00E9todo\ getRa\ -\ retorna\ valor\ do\ RA\ do\ aluno\r\n\r\n\ @return\ O\ valor\ de\ retorno\ do\ tipo\ String\r\n
+comment4.params=serie
+comment4.target=void\ setSerie(int)
+comment4.text=\r\n\ M\u00E9todo\ setSerie\ -\ atualiza\ valor\ da\ serie\ do\ aluno\r\n\r\n\ @param\ serie\ -\ parametro\ do\ tipo\ int\r\n
+comment5.params=
+comment5.target=int\ getSerie()
+comment5.text=\r\n\ M\u00E9todo\ getSerie\ -\ retorna\ valor\ da\ serie\ do\ aluno\r\n\r\n\ @return\ O\ valor\ de\ retorno\ do\ tipo\ int\r\n
+comment6.params=disc
+comment6.target=void\ setDisc(Disciplina[])
+comment6.text=\r\n\ M\u00E9todo\ setDisc\ -\ atualiza\ disciplina\ do\ aluno\r\n\r\n\ @param\ disc\ Um\ par\u00E2metro\ do\ tipo\ Disciplina\r\n
+comment7.params=
+comment7.target=Disciplina[]\ getDisc()
+comment7.text=\r\n\ M\u00E9todo\ getDisc\r\n\r\n\ @return\ retorna\ uma\ posicao\ do\ array\ Disciplina\ (contem\ nome\ e\ nota)\r\n
+numComments=8

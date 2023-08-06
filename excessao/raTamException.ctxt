@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=raTamException
+comment0.text=\r\n\ Detecta\ se\ o\ caractere\ \u00E9\ valido\r\n\ \r\n\ @author\ \ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\ \r\n
+comment1.params=msg
+comment1.target=raTamException(java.lang.String)
+comment1.text=\r\n\ raTamException\ Construtor\ \r\n\r\n\ @param\ msg\ Um\ par\u00E2metro\ do\ tipo\ string\r\n
+numComments=2

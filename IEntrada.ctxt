@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=IEntrada
+comment0.text=\r\n\ Interface\ das\ funcoes\ de\ entrada\r\n\ \r\n\ @author\ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\ \r\n
+comment1.params=
+comment1.target=int\ lerQtdDisc()
+comment2.params=
+comment2.target=java.lang.String\ lerNome()
+comment3.params=
+comment3.target=int\ lerIdade()
+comment4.params=
+comment4.target=java.lang.String\ lerRa()
+comment5.params=
+comment5.target=int\ lerSerie()
+comment6.params=
+comment6.target=double\ lerNota()
+comment7.params=
+comment7.target=java.lang.String\ lerNomeDisc()
+numComments=8

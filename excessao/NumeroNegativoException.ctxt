@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NumeroNegativoException
+comment0.text=\r\n\ Detecta\ se\ o\ numero\ inserido\ \u00E9\ negativo\ \r\n\ \r\n\ @author\ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\r\n
+comment1.params=msg
+comment1.target=NumeroNegativoException(java.lang.String)
+comment1.text=\r\n\ NumeroNegativoException\ Construtor\r\n\r\n\ @param\ msg\ Um\ par\u00E2metro\ do\ tipo\ string\r\n
+numComments=2

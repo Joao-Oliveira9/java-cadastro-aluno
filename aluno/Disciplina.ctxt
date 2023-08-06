@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Definicao\ dos\ atributos\ da\ disciplina\r\n\ \r\n\ @author\ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\ \r\n
+comment1.params=nota\ nomeDisc
+comment1.target=Disciplina(double,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Disciplina\r\n
+comment2.params=nota
+comment2.target=void\ setNota(double)
+comment2.text=\r\n\ M\u00E9todo\ atualiza\ o\ valor\ da\ nota\r\n\r\n\ @param\ nota\ parametro\ tipo\ float\r\n
+comment3.params=
+comment3.target=double\ getNota()
+comment3.text=\r\n\ M\u00E9todo\ getNota\ -\ retorna\ nota\ da\ pessoa\r\n\r\n\ @return\ O\ valor\ de\ retorno\ nota,\ tipo\ float\r\n
+comment4.params=nomeDisc
+comment4.target=void\ setDisc(java.lang.String)
+comment4.text=\r\n\ M\u00E9todo\ setDisc\ -\ atualiza\ valor\ de\ nomeDisc\ (nome\ da\ disciplina)\r\n\r\n\ @param\ nomeDisc\ Um\ par\u00E2metro\ do\ tipo\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDisc()
+comment5.text=\r\n\ M\u00E9todo\ getDisc\ -\ retorna\ nome\ da\ disciplina\r\n\r\n\ @return\ O\ valor\ de\ retorno\ do\ tipo\ String\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\r\n\r\n\ @retorna\ o\ valor\ dos\ atributos\ da\ classe\ como\ string\r\n
+numComments=7

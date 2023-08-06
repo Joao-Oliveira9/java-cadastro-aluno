@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SaidaDadosConsole
+comment0.text=\r\n\ Saida\ de\ dados\ via\ console\r\n\ \r\n\ @author\ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\ \r\n
+comment1.params=
+comment1.target=void\ imprimirListaVazia()
+comment2.params=
+comment2.target=void\ imprimirAlunoNaoExiste()
+comment3.params=nome
+comment3.target=void\ imprimirAlunoRemovido(java.lang.String)
+comment4.params=nome\ idade\ ra\ serie
+comment4.target=void\ imprimirAlunos(java.lang.String,\ int,\ java.lang.String,\ int)
+comment5.params=ra
+comment5.target=void\ imprimirRaExiste(java.lang.String)
+comment6.params=ra
+comment6.target=void\ imprimirRaInvalido(java.lang.String)
+comment7.params=disc\ i
+comment7.target=void\ imprimirDisc(aluno.Disciplina[],\ int)
+comment8.params=nomeArq
+comment8.target=void\ arquivoGravado(java.lang.String)
+comment9.params=nomeArq\ outroCad
+comment9.target=void\ lendoArquivo(java.lang.String,\ armazenador.IArmazenador)
+numComments=10

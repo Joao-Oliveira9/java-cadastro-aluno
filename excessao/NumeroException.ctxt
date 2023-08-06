@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NumeroException
+comment0.text=\r\n\ Detecta\ se\ um\ numero\ foi\ inserido\r\n\ \r\n\ @author\ \ Joao\ Pedro\ de\ Souza\ Oliveira\r\n\ 21/04/2023\r\n
+comment1.params=msg
+comment1.target=NumeroException(java.lang.String)
+comment1.text=\r\n\ NumeroException\ Construtor\r\n\r\n\ @param\ msg\ Um\ par\u00E2metro\ do\ tipo\ string\r\n
+numComments=2
